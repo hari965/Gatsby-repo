@@ -12,6 +12,6 @@ const IndexPage = () => {
     </Layout>
   )
 }
-//look from 2:49:46 of video
+//look from 2:49:46 of course video
 
 export default IndexPage;
